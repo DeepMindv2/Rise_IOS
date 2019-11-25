@@ -15,7 +15,7 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 4. The Engagement score is then sent to Firebase (Cloud Storage)
 5. From there the app retrieves the Engagement scores 
 
-![Project Flow](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%203.10.34%20PM.png)
+![Project Flow](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%207.29.10%20PM.png)
 
 
 # Necessary Dependencies
