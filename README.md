@@ -17,6 +17,10 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 
 ![Project Flow](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%207.29.10%20PM.png)
 
+# Firebase 
+We use Firebase as an intemediary between the App and the G-tec. Firebase saves data in a JSON format. We save data in Firebase based on Subject Number (S#), Baseline, and Task. 
+
+![Image of Firebase Console](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%205.45.52%20PM.png)
 
 # Necessary Dependencies
 - Python 3.5
@@ -29,4 +33,3 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 
 ![Image of APP](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%203.10.34%20PM.png)
 
-![Image of Firebase Console](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%205.45.52%20PM.png)
