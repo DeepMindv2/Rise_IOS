@@ -23,6 +23,6 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed to funct
 - Firebase
 
 
-![Image of APP](https://github.com/DeepMindv2/Rise-APP/blob/master/Screen%20Shot%202019-11-24%20at%203.10.34%20PM.png)
+![Image of APP](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%203.10.34%20PM.png)
 
-![Image of Firebase Console](https://github.com/DeepMindv2/Rise-APP/blob/master/Screen%20Shot%202019-11-24%20at%205.45.52%20PM.png)
+![Image of Firebase Console](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%205.45.52%20PM.png)
