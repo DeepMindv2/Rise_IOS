@@ -26,7 +26,7 @@ We use Firebase as an intemediary between the App and the G-tec. Firebase saves 
 ![Image of Firebase Console](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%205.45.52%20PM.png)
 
 # Engagement 
-Engagement is calculated by this formula. 
+Engagement is calculated by this formula, Beta/(Alpha+Theta). The code where the Engagement is calculated is in the python_firebase_Final.py file. The Engagement is calculated in real-time and constantly gets updated in order to determine when the users engagement is too low. 
 
 Figure 1: Engagement Formula [1]
 ![Engagement Formula](https://github.com/DeepMindv2/Rise/blob/master/Images/Engagement-formula.png)
