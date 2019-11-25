@@ -1,5 +1,5 @@
 # Rise-APP
-Quantitative Self Feedback Loop for ADHD students. This app is designed as a form of Bio-feedback meant to help notify users when the attention levels are below a certain threshold. This is an IOS app currently under development by the Neuro-Machine-Interaction Lab at the University of South Florida. This project was inspired by Dr. Marvin Andujars Dissertation: Aiding users to self-regulate their attention through Quantified-Self feedback while performing a learning task from a Brain-Computer Interface.  
+Quantitative Self Feedback Loop for ADHD students. This app is designed as a form of Bio-feedback meant to help notify users when the attention levels are below a certain threshold. This is an IOS app currently under development by the Neuro-Machine-Interaction Lab at the University of South Florida. This project was inspired by Dr. Marvin Andujars Dissertation: "Aiding users to self-regulate their attention through Quantified-Self feedback while performing a learning task from a Brain-Computer Interface."  
 
 # Features
 - Tips on improving Focus 
