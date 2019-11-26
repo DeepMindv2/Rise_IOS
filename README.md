@@ -22,8 +22,7 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 
 # G-tec Nautilus
 g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish [2]. For this study the dry EEG electrode version will be used and 32 channels. 
-
-
+![G-tec Nautilus] (https://github.com/DeepMindv2/Rise/blob/master/Images/g-Nautilus.jpg)
 
 
 # Firebase 
