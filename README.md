@@ -16,9 +16,12 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 2. Openvibe saves the users raw data locally
 3. From there a python script is run which calculates the Engagement 
 4. The Engagement score is then sent to Firebase (Cloud Storage)
-5. From there the app retrieves the Engagement scores 
+5. From there the app retrieves the Engagement scores and sends notifications to the user when the Engagement score is low 
 
 ![Project Flow](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%207.29.10%20PM.png)
+
+# G-tec Nautilus
+g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish. For this study the dry EEG electrode version will be used and 32 channels. 
 
 # Firebase 
 We use Firebase as an intemediary between the App and the G-tec. Firebase saves data in a JSON format. We save data in Firebase based on Subject Number (S#), Baseline, and Task. To save data to and from Firebase run python file: python_firebase_Final.py. 
@@ -43,4 +46,5 @@ Figure 1: Engagement Formula [1]
 # References 
 - [1] https://www.researchgate.net/publication/305933823_Using_a_Visual_Programing_Language_to_Interact_with_Visualizations_of_Electroencephalogram_Signals/figures
 - [2] 
+
 
