@@ -23,6 +23,9 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 # G-tec Nautilus
 g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish [2]. For this study the dry EEG electrode version will be used and 32 channels. 
 
+
+
+
 # Firebase 
 We use Firebase as an intemediary between the App and the G-tec. Firebase saves data in a JSON format. We save data in Firebase based on Subject Number (S#), Baseline, and Task. To save data to and from Firebase run python file: python_firebase_Final.py. 
 
