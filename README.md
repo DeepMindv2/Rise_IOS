@@ -21,9 +21,11 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 ![Project Flow](https://github.com/DeepMindv2/Rise_2.0__2/blob/master/Images/Screen%20Shot%202019-11-24%20at%207.29.10%20PM.png)
 
 # G-tec Nautilus
-g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish [2]. For this study the dry EEG electrode version will be used and 32 channels. 
+g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish [2]. For this study the dry EEG electrode version will be used and 32 channels. 250 Hz. 
 ![G-tec Nautilus] (https://github.com/DeepMindv2/Rise/blob/master/Images/g-Nautilus.jpg)
 
+# Openvibe 
+We used Openvibe as the EEG Data Acquisition Software. Through it we calculate in real-time Beta, Alpha, and Theta bands. From there we save the data in CSV files were the python script then calculates the Engagement using those EEG Bands. 
 
 # Firebase 
 We use Firebase as an intemediary between the App and the G-tec. Firebase saves data in a JSON format. We save data in Firebase based on Subject Number (S#), Baseline, and Task. To save data to and from Firebase run python file: python_firebase_Final.py. 
