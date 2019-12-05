@@ -25,7 +25,7 @@ g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to b
 ![G-tec Nautilus] (https://github.com/DeepMindv2/Rise/blob/master/Images/g-Nautilus.jpg)
 
 # Openvibe 
-We used Openvibe as the EEG Data Acquisition Software. Through it we calculate in real-time Beta, Alpha, and Theta bands. From there we save the data in CSV files were the python script then calculates the Engagement using those EEG Bands. 
+We used Openvibe as the EEG Data Acquisition Software. Through it we calculate in real-time Beta, Alpha, and Theta bands. From there we save the data in CSV files were the python script then calculates the Engagement using those EEG Bands.  
 
 [###  ADD PHOTO OF OPENVIBE FLOWCHART  ###]
 
