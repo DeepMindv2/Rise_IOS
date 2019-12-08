@@ -22,7 +22,8 @@ Quantitative Self Feedback Loop for ADHD students. This app is designed as a for
 
 # G-tec Nautilus
 g.Nautilus RESEARCH is a non-certified wearable EEG headset. It is intended to be used for neuroscience research and comes with flexible cables to configure the EEG electrode positions as you wish [2]. For this study the dry EEG electrode version will be used and 32 channels. 250 Hz. 
-![G-tec Nautilus] (https://github.com/DeepMindv2/Rise/blob/master/Images/g-Nautilus.jpg)
+
+![G-tec Nautilus](https://github.com/DeepMindv2/Rise/blob/master/Images/g-Nautilus.jpg)
 
 # Openvibe 
 We used Openvibe as the EEG Data Acquisition Software. Through it we calculate in real-time Beta, Alpha, and Theta bands. From there we save the data in CSV files were the python script then calculates the Engagement using those EEG Bands.  
