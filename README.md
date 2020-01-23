@@ -53,12 +53,19 @@ Figure 1: Engagement Formula [1]
 
 # To Do
 - [ ] Configure Push Notifications
+- [ ] Write Study Procedure
+- [ ] Modify App Design based on new Study Procedure
+- [ ] Fill Out IRB Approval Forms
+- [ ] Wait for IRB Approval (+1 Month)
+- [ ] Write Participant Questionairre 
+- [ ] Test Real-Time Data Acquisition from Firebase, G-tec, to the App
+- [ ] Complete Test Run with all Phd students
 
 
 
 # References 
-- [1] https://www.researchgate.net/publication/305933823_Using_a_Visual_Programing_Language_to_Interact_with_Visualizations_of_Electroencephalogram_Signals/figures
-- [2] 
-https://www.gtec.at/product/gnautilus-research/
+[1]https://www.researchgate.net/publication/305933823_Using_a_Visual_Programing_Language_to_Interact_with_Visualizations_of_Electroencephalogram_Signals/figures
+
+[2] https://www.gtec.at/product/gnautilus-research/
 
 
