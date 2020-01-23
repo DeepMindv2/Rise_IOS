@@ -52,7 +52,6 @@ Figure 1: Engagement Formula [1]
 
 
 # To Do
-- [ ] Configure Push Notifications
 - [ ] Write Study Procedure
 - [ ] Modify App Design based on new Study Procedure
 - [ ] Fill Out IRB Approval Forms
@@ -60,6 +59,9 @@ Figure 1: Engagement Formula [1]
 - [ ] Write Participant Questionairre 
 - [ ] Test Real-Time Data Acquisition from Firebase, G-tec, to the App
 - [ ] Complete Test Run with all Phd students
+
+# In Progress
+- [ ] Configure Push Notifications
 
 
 
