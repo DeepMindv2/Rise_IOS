@@ -64,7 +64,7 @@ Figure 1: Engagement Formula [1]
 - [x] Configure Push Notifications
 
 # Completed 
-- [ ]
+
 
 
 # References 
