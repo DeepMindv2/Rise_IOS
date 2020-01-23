@@ -50,6 +50,12 @@ Figure 1: Engagement Formula [1]
 - Xcode
 - Firebase
 
+
+# To Do
+- [] Configure Push Notifications
+
+
+
 # References 
 - [1] https://www.researchgate.net/publication/305933823_Using_a_Visual_Programing_Language_to_Interact_with_Visualizations_of_Electroencephalogram_Signals/figures
 - [2] 
