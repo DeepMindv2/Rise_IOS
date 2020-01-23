@@ -61,8 +61,10 @@ Figure 1: Engagement Formula [1]
 - [ ] Complete Test Run with all Phd students
 
 # In Progress
-- [ ] Configure Push Notifications
+- [x] Configure Push Notifications
 
+# Completed 
+- [ ]
 
 
 # References 
